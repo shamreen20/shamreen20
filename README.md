@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamreen20
 - 👀 I’m interested in ... Learning New technologies
-- 🌱 I’m currently learning ... Deep learning / Image processing(openCV)
+- 🌱 I’m currently a Web Developer / ML learner 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... visit: https://github.com/shamreen20 
 
